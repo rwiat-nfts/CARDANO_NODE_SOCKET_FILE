@@ -1,2 +1,2 @@
-# CARDANO_NODE_SOCKET_FILE
+# CreateNamedPipe
 my node socket path
